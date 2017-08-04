@@ -6,6 +6,7 @@
     "type": "git",
     "url": "https://github.com/swissmanu/harmonyhubjs-client.git"
   },
+  "version": "1.0.0",
   "keywords": [
     "logitech",
     "harmony",
